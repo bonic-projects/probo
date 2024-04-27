@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342083126011",
+    "project_id": "probo-61bd9",
+    "storage_bucket": "probo-61bd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342083126011:android:c4d11a8e435de72b1a265e",
+        "android_client_info": {
+          "package_name": "com.example.probo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFCfsmE7tF6Yr2x0BSrsYQftfRyhtPdVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
